@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWF1Y2MwbDRxbHFnOXFhN3lxcmxnMjZweDlwNGRxaTg2c29meWkzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="https://t.me/Voriskol" >
-    <img src="https://img.shields.io/badge/TG-blue" alt="Telegram Badge" width="50"/>
-  </a>
 </div>
   <h1>
   hey there
